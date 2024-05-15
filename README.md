@@ -1,0 +1,1 @@
+This is a repository for the paper "CHUNAV: Analyzing Hindi Hate Speech and Targeted Groups in Indian Election Discourse" accepted for publication in ACM Transactions on Asian and Low-Resource Language Information Processing
